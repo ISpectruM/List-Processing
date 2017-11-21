@@ -1,0 +1,27 @@
+textarea {
+    width: 90%;
+    height: 450px;
+    border: 2px solid black;
+    resize: none;
+    color: black;
+    font-size: 18px;
+}
+
+input {
+    width: 80%;
+    height: 36px;
+    border: 2px solid black;
+    font-size: 18px;
+    display: inline-block;
+}
+
+button {
+    display: inline-block;
+    height: 50px;
+    width: 10%;
+    font-size: 30px;
+}
+
+body {
+    text-align: left;
+}
